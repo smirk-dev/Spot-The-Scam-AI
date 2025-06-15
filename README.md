@@ -54,7 +54,7 @@ Online job scams are rising rapidly, luring victims through fake offers and frau
 
 Due to file size, the trained model and original dataset are hosted externally.
 
-📥 **Download Link**: [https://drive.google.com/your-dataset-and-model-link](https://drive.google.com/your-dataset-and-model-link)\
+📥 **Download Link**: [https://drive.google.com/your-dataset-and-model-link](https://drive.google.com/your-dataset-and-model-link)
 
 After downloading:
 
