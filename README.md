@@ -12,7 +12,7 @@ A machine learning-powered web app that detects whether a job posting is real or
 
 ## 🎥 Demo Video
 
-📺 **Presentation Link**: [https://drive.google.com/your-video-link](https://drive.google.com/your-video-link)
+📺 **Presentation Link**: [https://www.youtube.com/your-video-link](https://www.youtube.com/watch?v=kdChsikXbNA)
 
 ---
 
@@ -115,7 +115,7 @@ After downloading:
 ## 🔗 Other Links
 
 - 🔹 Hosted App: [https://anveshanhackathonmodelbuildersds.streamlit.app](https://anveshanhackathonmodelbuildersds.streamlit.app)
-- 🔹 Demo Video: [https://drive.google.com/your-video-link](https://drive.google.com/your-video-link)
+- 🔹 Demo Video: [https://www.youtube.com/your-video-link](https://www.youtube.com/watch?v=kdChsikXbNA)
 
 ---
 
